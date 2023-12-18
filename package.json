@@ -1,0 +1,21 @@
+{
+  "name": "canvas-images-editor",
+  "private": false,
+  "version": "0.0.1",
+  "type": "module",
+  "files": ["src/*", "dist/*"],
+  "main": "dist/CanvasShowCase.umd.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "konva": "^9.2.3",
+    "vue": "^3.3.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.0",
+    "vite": "^5.0.0"
+  }
+}
