@@ -323,7 +323,7 @@ class CanvasShowCase {
     return arr.map((item) => item.attrs);
   }
   getImagesInfo() {
-    const arr = this.stage.find(".text-transformer");
+    const arr = this.stage.find(".img-transformer");
     return arr.map((item) => item.attrs);
   }
 
