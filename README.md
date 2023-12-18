@@ -1,6 +1,6 @@
 # 
 
-基于konvas 实现的定制图片功能 check out the [konvas docs](https://konvajs.org/api/Konva.html) to learn more.
+基于konvas 实现的定制图片功能，文档参考 [konvas docs](https://konvajs.org/api/Konva.html) 
 
 ## 使用
 
